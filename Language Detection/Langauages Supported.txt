@@ -1,0 +1,88 @@
+1. LangDetect (Based on the langdetect package)
+The LangDetect library supports a variety of languages. The full list includes, but is not limited to:
+
+English
+Spanish
+French
+German
+Italian
+Portuguese
+Dutch
+Russian
+Chinese (Simplified)
+Japanese
+Korean
+Arabic
+Hindi
+Turkish
+Swedish
+Finnish
+Danish
+Polish
+Norwegian
+Czech
+Greek
+Romanian
+Hungarian
+Thai
+Indonesian
+Bengali
+Malay
+Ukrainian
+Hebrew
+Vietnamese
+Tamil
+Telugu
+Swahili
+Filipino (Tagalog)
+Punjabi
+LangDetect supports over 55 languages in total.
+
+2. LangID (Based on the langid package)
+The LangID library is slightly more limited but still supports many common languages. Here's a list of languages it detects:
+
+English
+Spanish
+French
+German
+Italian
+Portuguese
+Dutch
+Russian
+Arabic
+Chinese (Simplified)
+Japanese
+Korean
+Hindi
+Turkish
+Swedish
+Danish
+Polish
+Finnish
+Norwegian
+Greek
+Czech
+Hungarian
+Thai
+Indonesian
+Bengali
+Swahili
+Tamil
+Telugu
+Filipino (Tagalog)
+LangID supports a smaller set of approximately 97 languages.
+
+Summary of Supported Languages
+Both libraries can detect a variety of languages, including major ones like:
+
+English
+Spanish
+French
+German
+Italian
+Chinese (Simplified & Traditional)
+Japanese
+Arabic
+Hindi
+Russian
+Portuguese
